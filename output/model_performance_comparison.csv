@@ -1,0 +1,18 @@
+Model,Accuracy
+Decision Tree with TF-IDF,0.3954659949622166
+Gradient Boosting with TF-IDF,0.44584382871536526
+Random Forest with TF-IDF,0.48866498740554154
+Linear SVM with TF-IDF,0.47103274559193953
+Multinomial Naive Bayes with TF-IDF,0.4634760705289673
+Decision Tree with BERT,0.3123425692695214
+Gradient Boosting with BERT,0.43828715365239296
+Random Forest with BERT,0.4433249370277078
+Linear SVM with BERT,0.4256926952141058
+Decision Tree with GloVE,0.3123425692695214
+Gradient Boosting with GloVE,0.4256926952141058
+Random Forest with GloVE,0.4634760705289673
+Linear SVM with GloVE,0.40302267002518893
+Decision Tree with Word2Vec,0.3350125944584383
+Gradient Boosting with Word2Vec,0.3853904282115869
+Random Forest with Word2Vec,0.3904282115869018
+Linear SVM with Word2Vec,0.3047858942065491
